@@ -86,7 +86,6 @@ body{
 
 body {
   font-family: "Lato", sans-serif;
-  background-color: rgb(19, 19, 19);
 }
 
 .mainOpen{
@@ -99,7 +98,7 @@ body {
   position: absolute;
   z-index: 9;
   left: -200px;
-  background-color: rgb(36, 35, 35); /*fundo sidenav*/
+  /* background-color: rgb(36, 35, 35); fundo sidenav */
   overflow-x: hidden;
   transition: 0.5s;
 }
